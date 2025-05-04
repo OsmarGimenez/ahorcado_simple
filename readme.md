@@ -69,4 +69,4 @@ Esta versión del juego proporciona una interfaz gráfica interactiva. El jugado
 
 ## Licencia
 
-Este proyecto está bajo la licencia [Nombre de la licencia, si aplica].
+Este proyecto está bajo la licencia [MIT License].
